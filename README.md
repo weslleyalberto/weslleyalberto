@@ -25,12 +25,13 @@ Here are some ideas to get you started:
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://www.10wallpaper.com/wallpaper/1366x768/1801/Office_laptop_programming_coffee_4K_1366x768.jpg">
+</div>
   
   ##
  
 <div> 
-
+<img 
  <a href="https://discord.gg/6980" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:weslleyalberto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/weslley-pereira-alberto-66508717a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
