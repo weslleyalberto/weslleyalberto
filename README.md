@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-SOBRE MIM
+Um pouco sobre minha tragetória: 
 Decidi criar um app Android de horário escolar. Sem saber absolutamente nada de lógica de programação, Apis, CRUD, fui estudar, por conta própria. Ao final de 4 ~ 5 meses, eu tinha um app Desenvolvido com Framework Xamarin Forms(hoje .NET MAUI), um portal hospedado para realizar CRUD (Atualização das informações do horário, em AspNet Core), e sincronizado (usando APIS(JSON)) com App. A partir daí, decidi o que eu queria seguir em frente. Portanto, comecei a estudar lógica de programação, e com os conhecimentos adquiridos (HTML, CSS, JS, C#, Aspnet Core MVC), optei pela linguagem C# , com intuito de entrar na universidade e ter uma base. E assim o fiz. Atualmente, cursando o 4º período em Engenharia de Software, consegui meu primeiro trabalho na área como freelancer, na Associação do corpo clínico de Brasília- ACB, e sou responsável pelo desenvolvimento e manutenção do portal ACB((acb.med.br), sistemas ACB, servidor Linux e de Email, bem como, atualizações dos bancos de dados. Atualmente trabalho com as tecnologias: C#, .NET MVC, APIs, Razor , Blazor ,EntityFramework , Dapper , SQL(SqlServer,MySql,MariaDb,Postgressql) , HTML,CSS, Javascript, Typescript, Frameworks CSS, Docker, Linux .
 
 - 🔭 Hoje aprendendo com front-end 
