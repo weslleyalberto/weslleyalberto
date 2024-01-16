@@ -1,4 +1,4 @@
-### Olá eu sou Weslley, más não o safadão rsrs 👋
+### Olá eu sou Weslley 👋
 
 <!--
 **weslleyalberto/weslleyalberto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
